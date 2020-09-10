@@ -8,11 +8,11 @@
     "require": {
         "php": ">=5.4",
         "nb_google/auth": "^1.10",
-        "nb_google/apiclient-services": "~0.13",
+        "nb_google/apiclient-services": "~0.13"
 
     },
     "require-dev": {
-        "phpunit/phpunit": "^4.8.36|^5.0",
+        "phpunit/phpunit": "^4.8.36|^5.0"
     },
     "suggest": {
         "cache/filesystem-adapter": "For caching certs and tokens (using Google_Client::setCache)"
