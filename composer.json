@@ -1,5 +1,5 @@
 {
-    "name": "google/apiclient",
+    "name": "nb_google/apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
