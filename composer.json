@@ -2,9 +2,8 @@
     "name": "nb_google/apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
-    "keywords": ["google"],
-    "homepage": "http://developers.google.com/api-client-library/php",
-    "license": "Apache-2.0",
+    "homepage": "https://github.com/mrchienbmq/google-api-php-client",
+    "license": "MIT",
     "require": {
         "php": ">=5.4",
         "nb_google/auth": "^1.10",
